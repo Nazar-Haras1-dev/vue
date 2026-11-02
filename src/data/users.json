@@ -1,0 +1,374 @@
+[
+  {
+    "id": 1,
+    "gender": "female",
+    "name": {
+      "title": "Mrs",
+      "first": "Emma",
+      "last": "Lampi"
+    },
+    "location": {
+      "street": {
+        "number": 2304,
+        "name": "Siilitie"
+      },
+      "city": "Hausjärvi",
+      "state": "Uusimaa",
+      "country": "Finland",
+      "postcode": 98555,
+      "timezone": {
+        "offset": "+8:00",
+        "description": "Beijing, Perth, Singapore, Hong Kong"
+      }
+    },
+    "email": "emma.lampi@example.com",
+    "dob": {
+      "date": "2001-03-08T01:39:19.084Z",
+      "age": 25
+    },
+    "phone": "02-689-410",
+    "cell": "043-730-12-94",
+    "picture": "/users/1.jpg",
+    "hobbies": [
+      "Travel",
+      "Photography",
+      "Hiking",
+      "Reading",
+      "Cooking",
+      "Music"
+    ],
+    "details": "Loves weekend trips and capturing landscapes on film."
+  },
+  {
+    "id": 2,
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Jonas",
+      "last": "Becker"
+    },
+    "location": {
+      "street": {
+        "number": 12,
+        "name": "Lindenallee"
+      },
+      "city": "Berlin",
+      "state": "Berlin",
+      "country": "Germany",
+      "postcode": 10115,
+      "timezone": {
+        "offset": "+1:00",
+        "description": "Brussels, Copenhagen, Madrid, Paris"
+      }
+    },
+    "email": "jonas.becker@example.com",
+    "dob": {
+      "date": "1992-07-21T10:12:00.000Z",
+      "age": 34
+    },
+    "phone": "030-5551-204",
+    "cell": "0151-5550-1234",
+    "picture": "/users/2.jpg",
+    "hobbies": [
+      "Cycling",
+      "Gaming",
+      "Cooking"
+    ],
+    "details": "Backend developer who bikes to work every day."
+  },
+  {
+    "id": 3,
+    "gender": "female",
+    "name": {
+      "title": "Ms",
+      "first": "Sofia",
+      "last": "Rossi"
+    },
+    "location": {
+      "street": {
+        "number": 7,
+        "name": "Via Roma"
+      },
+      "city": "Torino",
+      "state": "Piemonte",
+      "country": "Italy",
+      "postcode": 10121,
+      "timezone": {
+        "offset": "+1:00",
+        "description": "Brussels, Copenhagen, Madrid, Paris"
+      }
+    },
+    "email": "sofia.rossi@example.com",
+    "dob": {
+      "date": "2010-01-15T08:00:00.000Z",
+      "age": 16
+    },
+    "phone": "011-555-0187",
+    "cell": "347-555-0132",
+    "picture": "/users/3.jpg",
+    "hobbies": [
+      "Music",
+      "Painting"
+    ],
+    "details": "High school student, plays the violin."
+  },
+  {
+    "id": 4,
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Mateo",
+      "last": "Garcia"
+    },
+    "location": {
+      "street": {
+        "number": 88,
+        "name": "Calle Mayor"
+      },
+      "city": "Valencia",
+      "state": "Valencia",
+      "country": "Spain",
+      "postcode": 46001,
+      "timezone": {
+        "offset": "+1:00",
+        "description": "Brussels, Copenhagen, Madrid, Paris"
+      }
+    },
+    "email": "mateo.garcia@example.com",
+    "dob": {
+      "date": "1974-11-02T12:30:00.000Z",
+      "age": 52
+    },
+    "phone": "96-555-0142",
+    "cell": "612-555-018",
+    "picture": "/users/4.jpg",
+    "hobbies": [
+      "Chess",
+      "Reading",
+      "Travel"
+    ],
+    "details": "Teacher of history, chess club coach."
+  },
+  {
+    "id": 5,
+    "gender": "female",
+    "name": {
+      "title": "Miss",
+      "first": "Chloe",
+      "last": "Dubois"
+    },
+    "location": {
+      "street": {
+        "number": 5,
+        "name": "Rue Victor Hugo"
+      },
+      "city": "Lyon",
+      "state": "Rhône",
+      "country": "France",
+      "postcode": 69002,
+      "timezone": {
+        "offset": "+1:00",
+        "description": "Brussels, Copenhagen, Madrid, Paris"
+      }
+    },
+    "email": "chloe.dubois@example.com",
+    "dob": {
+      "date": "1997-05-30T09:45:00.000Z",
+      "age": 29
+    },
+    "phone": "04-55-55-01-23",
+    "cell": "06-55-55-04-56",
+    "picture": "/users/5.jpg",
+    "hobbies": [
+      "Photography",
+      "Cooking",
+      "Hiking"
+    ],
+    "details": "Food photographer and part-time chef."
+  },
+  {
+    "id": 6,
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Lars",
+      "last": "Nilsson"
+    },
+    "location": {
+      "street": {
+        "number": 31,
+        "name": "Storgatan"
+      },
+      "city": "Göteborg",
+      "state": "Västra Götaland",
+      "country": "Sweden",
+      "postcode": 41103,
+      "timezone": {
+        "offset": "+1:00",
+        "description": "Brussels, Copenhagen, Madrid, Paris"
+      }
+    },
+    "email": "lars.nilsson@example.com",
+    "dob": {
+      "date": "1985-09-12T07:20:00.000Z",
+      "age": 41
+    },
+    "phone": "031-555-01-77",
+    "cell": "070-555-01-88",
+    "picture": "/users/6.jpg",
+    "hobbies": [
+      "Hiking",
+      "Cycling",
+      "Gaming"
+    ],
+    "details": "Product manager and weekend hiker."
+  },
+  {
+    "id": 7,
+    "gender": "female",
+    "name": {
+      "title": "Mrs",
+      "first": "Olena",
+      "last": "Kovalenko"
+    },
+    "location": {
+      "street": {
+        "number": 14,
+        "name": "Holovna"
+      },
+      "city": "Chernivtsi",
+      "state": "Chernivtsi",
+      "country": "Ukraine",
+      "postcode": 58000,
+      "timezone": {
+        "offset": "+2:00",
+        "description": "Helsinki, Kyiv, Riga, Sofia"
+      }
+    },
+    "email": "olena.kovalenko@example.com",
+    "dob": {
+      "date": "1988-02-19T11:05:00.000Z",
+      "age": 38
+    },
+    "phone": "0372-55-01-23",
+    "cell": "050-555-01-23",
+    "picture": "/users/7.jpg",
+    "hobbies": [
+      "Reading",
+      "Music",
+      "Travel"
+    ],
+    "details": "Librarian who organises a local book club."
+  },
+  {
+    "id": 8,
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Noah",
+      "last": "Wilson"
+    },
+    "location": {
+      "street": {
+        "number": 902,
+        "name": "Maple Street"
+      },
+      "city": "Calgary",
+      "state": "Alberta",
+      "country": "Canada",
+      "postcode": 40210,
+      "timezone": {
+        "offset": "-7:00",
+        "description": "Mountain Time (US & Canada)"
+      }
+    },
+    "email": "noah.wilson@example.com",
+    "dob": {
+      "date": "1959-12-05T15:00:00.000Z",
+      "age": 67
+    },
+    "phone": "403-555-0166",
+    "cell": "587-555-0199",
+    "picture": "/users/8.jpg",
+    "hobbies": [
+      "Hiking",
+      "Reading",
+      "Chess"
+    ],
+    "details": "Retired engineer, volunteers at a nature park."
+  },
+  {
+    "id": 9,
+    "gender": "female",
+    "name": {
+      "title": "Ms",
+      "first": "Aiko",
+      "last": "Tanaka"
+    },
+    "location": {
+      "street": {
+        "number": 3,
+        "name": "Midosuji"
+      },
+      "city": "Osaka",
+      "state": "Osaka",
+      "country": "Japan",
+      "postcode": 5300001,
+      "timezone": {
+        "offset": "+9:00",
+        "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+      }
+    },
+    "email": "aiko.tanaka@example.com",
+    "dob": {
+      "date": "2004-04-25T03:10:00.000Z",
+      "age": 22
+    },
+    "phone": "06-5555-0123",
+    "cell": "080-5555-0145",
+    "picture": "/users/9.jpg",
+    "hobbies": [
+      "Music",
+      "Painting",
+      "Gaming"
+    ],
+    "details": "Design student and indie game enthusiast."
+  },
+  {
+    "id": 10,
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Pedro",
+      "last": "Almeida"
+    },
+    "location": {
+      "street": {
+        "number": 21,
+        "name": "Rua de Santa Catarina"
+      },
+      "city": "Porto",
+      "state": "Porto",
+      "country": "Portugal",
+      "postcode": 4000,
+      "timezone": {
+        "offset": "+0:00",
+        "description": "Western Europe Time, London, Lisbon, Casablanca"
+      }
+    },
+    "email": "pedro.almeida@example.com",
+    "dob": {
+      "date": "2008-08-14T14:40:00.000Z",
+      "age": 18
+    },
+    "phone": "22-555-0100",
+    "cell": "91-555-0122",
+    "picture": "/users/10.jpg",
+    "hobbies": [
+      "Gaming",
+      "Cycling",
+      "Music"
+    ],
+    "details": "Just turned 18 and learning to code."
+  }
+]
